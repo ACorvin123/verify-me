@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const backButton = document.getElementById('back-button');
 
     // Gay group
-    const group1 = ["Mike R", "Melden P", "David B"];
+    const group1 = ["Mike R", "Melden P", "David B", "Mick"];
     // Not gay group
     const group2 = ["Alex P", "Andrei B", "Filip L"];
 
